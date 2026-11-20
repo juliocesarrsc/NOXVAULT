@@ -2,7 +2,7 @@
 
 ## Integrantes
 
-- **[Preencher o(s) nome(s) completo(s) dos integrantes.]**
+- Júlio César Rabelo Silva
 
 ## Tema e descrição
 
