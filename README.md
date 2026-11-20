@@ -127,4 +127,4 @@ As capturas abaixo são obtidas da aplicação em execução local, com contas d
 
 ## Repositório GitHub
 
-**[Inserir a URL definitiva do repositório NOXVAULT após a publicação manual.]**
+(https://github.com/juliocesarrsc/NOXVAULT/tree/main)
