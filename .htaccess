@@ -1,0 +1,7 @@
+Options -Indexes
+DirectoryIndex index.php
+RewriteEngine On
+RewriteRule ^inicio/?$ index.php?r=home [QSA,END]
+<FilesMatch "^(inicializacao\.php|.*\.(sql|log|ini|env))$">
+    Require all denied
+</FilesMatch>

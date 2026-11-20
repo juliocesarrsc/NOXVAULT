@@ -1,0 +1,7 @@
+admin/config/local.php
+armazenamento/*
+!armazenamento/.htaccess
+admin/public/imagens/envios/*
+!admin/public/imagens/envios/.htaccess
+admin/public/imagens/perfis/*
+!admin/public/imagens/perfis/.htaccess
